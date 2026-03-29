@@ -11,6 +11,9 @@ Full-stack developer with 10+ years of experience in Java (Spring Boot) and Reac
 
 I write a weekly LinkedIn newsletter — **Java, Spring and AI Guide** — covering real-world backend engineering, JDK updates, and AI integration patterns for Java developers.
 
+[![Email vikkumar](https://img.shields.io/badge/Email-vikkumar@vendavo.com-green?style=for-the-badge)](mailto:vikkumar@endavo.com)
+<br>
+[![LinkedIn vikasro](https://img.shields.io/badge/LinkedIn-@vikasro-blue?style=for-the-badge)](https://www.linkedin.com/in/vikasro/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikasro/)
 
 ---
